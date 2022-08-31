@@ -1,1 +1,9 @@
 uhrgewuhierugi:
+
+// isac säger hej
+
+
+if (powell == 23)
+    print(3)
+else:
+    print(5)
